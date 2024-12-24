@@ -4,6 +4,4 @@ numpy
 Pillow
 pdf2image
 pytesseract
-tesseract-ocr
-libtesseract-dev
 
